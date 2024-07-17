@@ -1,5 +1,5 @@
 # Trabalho Arquivos
 
-A dupla formada por Gabriel da Costa Merlin [12544420] e Pedro Augusto Monteiro Delgado [13672766] implementou diversos
-comandos SQL utilizando a linguagem C para os trabalhos da disciplina de Organização de Arquivos ministrada no 1º semestre 
-de 2023 pela professora Cristina Dutra de Aguiar.
+The duo formed by Gabriel da Costa Merlin [12544420] and Pedro Augusto Monteiro Delgado [13672766] implemented several
+SQL commands using the C language for the project of the File Organization discipline taught in the 1st semester of
+2023 by professor Cristina Dutra de Aguiar.
